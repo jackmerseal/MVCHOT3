@@ -1,5 +1,41 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@model MVCHOT3.Models.BowlingBall
+@{ 
+    string action = "";
+    if (Model.Id > 0)
+    {
+        action = "Edit";
+        ViewBag.Title = "Admin Bowling Ball Edit";
+    }
+    else
+    {
+        action = "Add";
+        ViewBag.Title = "Admin Bowling Ball Add";
+    } 
+} 
+
+@section scripts{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
 }
+
+<h1>Admin @(action) Bowling Ball</h1>
+<div asp-validation-summary="All"></div>
+<form asp-controller="BowlingBall" asp-action="Add" method="post">
+    <div class="row">
+        <div class="form-floating mb-3 col">
+            <input asp-for=Name class="form-control" id="floatingBrand" placeholder="Name">
+            <label asp-for=Name for="floatingBrand">Name</label>
+        </div>
+        <div class="form-floating mb-3 col">
+            <input asp-for=Brand class="form-control" id="floatingModel" placeholder="Brand">
+            <label asp-for=Brand for="floatingBrand">Brand</label>
+        </div>
+        <div class="form-floating mb-3 col">
+            <input asp-for=Price class="form-control" id="floatingPrice" placeholder="Price">
+            <label asp-for=Price for="floatingBrand">Price</label>
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+
+</form> 
