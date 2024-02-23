@@ -7,11 +7,11 @@ namespace MVCHOT3.Areas.Admin.Controllers
 	[Area("Admin")]
 	public class BowlingBallController : Controller
 	{
-		private readonly ShopContext context;
+		private readonly ShopContext _context;
 
 		public BowlingBallController(ShopContext context)
 		{
-			context = context;
+			_context = context;
 		}
 		public IActionResult Index()
 		{

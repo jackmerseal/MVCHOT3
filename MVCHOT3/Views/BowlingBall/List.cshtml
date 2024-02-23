@@ -1,5 +1,58 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model List<MVCHOT3.Models.BowlingBall>
 @{
+	ViewBag.Title = "Bowling Ball List";
 }
+
+<h1>Bowling Ball List</h1>
+<div class="row">
+    <div class="col-md-2">
+        <ul class="list-group">
+            <li class="list-group-item">
+                <a asp-controller="BowlingBall" asp-action="List" asp-route-brand="motiv" class="nav-link">Motiv</a>
+            </li>
+            <li class="list-group-item">
+                <a asp-controller="BowlingBall" asp-action="List" asp-route-brand="roto-grip" class="nav-link">Roto Grip</a>
+            </li>
+            <li class="list-group-item">
+                <a asp-controller="Bicycle" asp-action="List" asp-route-brand="hammer" class="nav-link">Hammer</a>
+            </li>
+            <li class="list-group-item">
+                <a asp-controller="Bicycle" asp-action="List" asp-route-brand="pyramid" class="nav-link">Pyramid</a>
+            </li>
+        </ul>
+    </div>
+    <div class="col-md-10">
+        <table class="table table-info table-striped">
+            <tr>
+                <th>
+                    Brand
+                </th>
+                <th>
+                    Model
+                </th>
+                <th>
+                    Price
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Brand)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        <a asp-controller="BowlingBall" asp-action="Details" asp-route-id="@item.Id" asp-route-slug="@item.Slug">Details</a>
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div> 

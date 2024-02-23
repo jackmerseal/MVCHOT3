@@ -1,5 +1,42 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model ShoppingCartViewModel
+
+<h1>Shopping Cart</h1>
+<h2 class="text-success bg-dark">@(ViewBag.CartMessage)</h2>
+<table class="table">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Brand</th>
+			<th>Price</th>
+			<th>Quantity</th>
+			<th>Subtotal</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model.CartItems)
+		{
+			<tr>
+				<td>@item.BowlingBall.Name</td>
+				<td>@item.BowlingBall.Brand</td>
+				<td>@item.BowlingBall.Price</td>
+				<td>@item.Quantity</td>
+				<td>@((item.BowlingBall.Price * item.Quantity).ToString("C"))</td>
+				<input type="hidden" value="@item.BowlingBall.Id" />
+				<td>
+					<a asp-controller="ShoppingCart" asp-action="RemoveItem" asp-route-id="@item.BowlingBall.Id" class="btn btn-danger">Remove</a>
+				</td>
+			</tr>
+		}
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>Total:</td>
+			<td>@Model.TotalPrice?.ToString("C")</td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
+<a class="btn btn-success" asp-controller="ShoppingCart" asp-action="PurchaseItems">Purchase</a> 
