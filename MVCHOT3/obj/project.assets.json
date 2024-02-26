@@ -2338,19 +2338,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\coast\\.nuget\\packages\\": {}
+    "C:\\Users\\Jack Merseal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\MVCHOT3.csproj",
+      "projectUniqueName": "C:\\Users\\Jack Merseal\\Desktop\\HOT3\\MVCHOT3\\MVCHOT3\\MVCHOT3.csproj",
       "projectName": "MVCHOT3",
-      "projectPath": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\MVCHOT3.csproj",
-      "packagesPath": "C:\\Users\\coast\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\obj\\",
+      "projectPath": "C:\\Users\\Jack Merseal\\Desktop\\HOT3\\MVCHOT3\\MVCHOT3\\MVCHOT3.csproj",
+      "packagesPath": "C:\\Users\\Jack Merseal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jack Merseal\\Desktop\\HOT3\\MVCHOT3\\MVCHOT3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\coast\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jack Merseal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2410,7 +2410,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
