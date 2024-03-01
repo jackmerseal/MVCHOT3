@@ -78,7 +78,6 @@ namespace MVCHOT3.Controllers
 			return RedirectToAction("ViewCart");
 		}
 
-		[HttpPost]
 		public IActionResult PurchaseItems()
 		{
 			var cartItems = HttpContext.Session.Get<List<ShoppingCartItem>>("Cart") ?? new List<ShoppingCartItem>();

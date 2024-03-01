@@ -11,6 +11,12 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ShopContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("BowlingShopCS")));
 
+builder.Services.AddRouting(options =>
+{
+	options.LowercaseUrls = true;
+	options.AppendTrailingSlash = true;
+});
+
 var app = builder.Build();
 
 app.UseSession();

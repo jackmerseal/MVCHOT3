@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MVCHOT3.Migrations
 {
     [DbContext(typeof(ShopContext))]
-    [Migration("20240226135046_Purchases")]
-    partial class Purchases
+    [Migration("20240301173704_AddedPurchases")]
+    partial class AddedPurchases
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

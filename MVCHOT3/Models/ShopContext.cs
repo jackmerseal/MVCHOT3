@@ -5,8 +5,8 @@ namespace MVCHOT3.Models
 	{
 		public ShopContext(DbContextOptions<ShopContext> options) : base(options) { }
 
-		public DbSet<BowlingBall> BowlingBalls { get;set; }
-		public DbSet<Purchase> Purchases { get;set; }
+		public DbSet<BowlingBall> BowlingBalls { get; set; }
+		public DbSet<Purchase> Purchases { get; set; }
 
 		protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{

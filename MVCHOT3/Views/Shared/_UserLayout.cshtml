@@ -26,7 +26,7 @@
 							<a class="nav-link" asp-area="Admin" asp-controller="Home" asp-action="Index">Admin Area</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" asp-area="" asp-controller="ShoppingCart" asp-action="ViewCart">Cart</a>
+							<a class="nav-link @(c=="ShoppingCart" && a=="ViewCart" ? "active text-light" : "")" asp-area="" asp-controller="ShoppingCart" asp-action="ViewCart" ? active>Cart</a>
 						</li>
 					</ul>
 				</div>
