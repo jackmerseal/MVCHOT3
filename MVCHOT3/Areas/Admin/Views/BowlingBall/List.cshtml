@@ -54,10 +54,10 @@
 						@Html.DisplayFor(modelItem => item.Price)
 					</td>
 					<td>
-						<a asp-controller="BowlingBall" asp-action="Add" asp-route-id=@item.Id class="btn btn-warning">Edit Bowling Ball</a>
+						<a asp-controller="BowlingBall" asp-action="Add" asp-route-id=@item.Id asp-route-slug="@item.Slug" class="btn btn-warning">Edit Bowling Ball</a>
 					</td>
 					<td>
-						<a asp-controller="BowlingBall" asp-action="Delete" asp-route-id=@item.Id class="btn btn-danger">Delete Bowling Ball</a>
+						<a asp-controller="BowlingBall" asp-action="Delete" asp-route-id=@item.Id asp-route-slug="@item.Slug" class="btn btn-danger">Delete Bowling Ball</a>
 					</td>
 				</tr>
 			}

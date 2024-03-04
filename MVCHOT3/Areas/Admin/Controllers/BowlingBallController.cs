@@ -18,7 +18,7 @@ namespace MVCHOT3.Areas.Admin.Controllers
 			return View();
 		}
 
-		[Route("[area]/bowlingballs/{brand?}")]
+		[Route("[area]/bowlingballs/{brand?}/{slug?}")]
 		public IActionResult List(string brand = "all")
 		{
 			List<BowlingBall> bowlingballs;
