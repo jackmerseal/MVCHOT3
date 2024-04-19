@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
 using MVCHOT3.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace MVCHOT3.Controllers
 {
+	[Authorize]
     public class ShoppingCartController : Controller
 	{
 		private readonly ShopContext _context;
