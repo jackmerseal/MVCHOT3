@@ -22,6 +22,9 @@
                     <li class="nav-item">
                         <a class="nav-link @(c=="BowlingBall" && a=="List" ? "active text-light" : "")" asp-area="Admin" asp-controller="BowlingBall" asp-action="List" asp-route-brand="all">Bowling Balls</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link @(c=="User" && a=="Index" ? "active text-light" : "")" asp-area="Admin" asp-controller="User" asp-action="Index">Manage Users</a>
+                    </li>
                     <li class="nav-item ms-auto">
                         <a class="nav-link @(area == "" && c=="Home" && a=="Index" ? "active text-light" : "")" asp-area="" asp-controller="Home" asp-action="Index">User Area</a>
                     </li>
