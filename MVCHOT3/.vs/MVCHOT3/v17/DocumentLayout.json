@@ -3,84 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Migrations\\20240419150101_addedFirstLastNames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240419150101_addedFirstLastNames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\models\\viewmodels\\shoppingcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:models\\viewmodels\\shoppingcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\views\\shoppingcart\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:views\\shoppingcart\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\controllers\\bowlingballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:controllers\\bowlingballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\migrations\\shopcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:migrations\\shopcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\models\\datalayer\\configuration\\configurebowlingballs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:models\\datalayer\\configuration\\configurebowlingballs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\models\\datalayer\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:models\\datalayer\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\models\\domainmodels\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:models\\domainmodels\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\models\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:models\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\migrations\\20240419150325_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:migrations\\20240419150325_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,268 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240419150101_addedFirstLastNames.cs",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Migrations\\20240419150101_addedFirstLastNames.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240419150101_addedFirstLastNames.cs",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Migrations\\20240419150101_addedFirstLastNames.cs",
-              "RelativeToolTip": "Migrations\\20240419150101_addedFirstLastNames.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T15:01:01.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-19T14:59:47.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ViewCart.cshtml",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\ShoppingCart\\ViewCart.cshtml",
-              "RelativeDocumentMoniker": "Views\\ShoppingCart\\ViewCart.cshtml",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\ShoppingCart\\ViewCart.cshtml",
-              "RelativeToolTip": "Views\\ShoppingCart\\ViewCart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T14:11:51.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShoppingCartViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\ViewModels\\ShoppingCartViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModels\\ShoppingCartViewModel.cs",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\ViewModels\\ShoppingCartViewModel.cs",
-              "RelativeToolTip": "Models\\ViewModels\\ShoppingCartViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:09:42.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ShoppingCartController.cs",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "Controllers\\ShoppingCartController.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAqwGMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:29:39.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T14:45:18.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_UserLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\Shared\\_UserLayout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_UserLayout.cshtml",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\Shared\\_UserLayout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_UserLayout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T14:30:17.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Areas\\Admin\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Areas\\Admin\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAxwGMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:07:22.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:31:11.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T14:45:19.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ShopContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Migrations\\ShopContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ShopContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Migrations\\ShopContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ShopContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:42:23.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ConfigureBowlingBalls.cs",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\DataLayer\\Configuration\\ConfigureBowlingBalls.cs",
-              "RelativeDocumentMoniker": "Models\\DataLayer\\Configuration\\ConfigureBowlingBalls.cs",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\DataLayer\\Configuration\\ConfigureBowlingBalls.cs",
-              "RelativeToolTip": "Models\\DataLayer\\Configuration\\ConfigureBowlingBalls.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:40:18.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T14:36:23.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ShopContext.cs",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\DataLayer\\ShopContext.cs",
-              "RelativeDocumentMoniker": "Models\\DataLayer\\ShopContext.cs",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\DataLayer\\ShopContext.cs",
-              "RelativeToolTip": "Models\\DataLayer\\ShopContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:28:35.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ShoppingCartItem.cs",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\DomainModels\\ShoppingCartItem.cs",
-              "RelativeDocumentMoniker": "Models\\DomainModels\\ShoppingCartItem.cs",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\DomainModels\\ShoppingCartItem.cs",
-              "RelativeToolTip": "Models\\DomainModels\\ShoppingCartItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:29:30.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:34:05.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T14:09:07.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\ViewModels\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModels\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\ViewModels\\RegisterViewModel.cs",
-              "RelativeToolTip": "Models\\ViewModels\\RegisterViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:07:48.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ChangePasswordViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\ViewModels\\ChangePasswordViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModels\\ChangePasswordViewModel.cs",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\ViewModels\\ChangePasswordViewModel.cs",
-              "RelativeToolTip": "Models\\ViewModels\\ChangePasswordViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:05:21.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ChangePassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\Account\\ChangePassword.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\ChangePassword.cshtml",
-              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\Account\\ChangePassword.cshtml",
-              "RelativeToolTip": "Views\\Account\\ChangePassword.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwB4AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T14:05:01.255Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -363,6 +43,67 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlingBallController.cs",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Controllers\\BowlingBallController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlingBallController.cs",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Controllers\\BowlingBallController.cs",
+              "RelativeToolTip": "Controllers\\BowlingBallController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:16:23.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_UserLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_UserLayout.cshtml",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_UserLayout.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAA0wDQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T15:13:55.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T15:13:52.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:09:50.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240419150325_initial.cs",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Migrations\\20240419150325_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240419150325_initial.cs",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Migrations\\20240419150325_initial.cs",
+              "RelativeToolTip": "Migrations\\20240419150325_initial.cs",
+              "ViewState": "AQIAACEBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:03:25.998Z"
             }
           ]
         }

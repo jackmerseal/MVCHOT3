@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MVCHOT3.Migrations
 {
     [DbContext(typeof(ShopContext))]
-    [Migration("20240419150101_addedFirstLastNames")]
-    partial class addedFirstLastNames
+    [Migration("20240419150325_initial")]
+    partial class initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
