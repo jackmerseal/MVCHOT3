@@ -1,8 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MVCHOT3.Models;
 using Microsoft.AspNetCore.Http;
-using MVCHOT3.Models.DomainModels;
-using MVCHOT3.Models.DataLayer;
+using MVCHOT3.Models;
 
 namespace MVCHOT3.Controllers
 {

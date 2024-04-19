@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System.Reflection.Emit;
 
-namespace MVCHOT3.Models.DataLayer.Configuration
+namespace MVCHOT3.Models
 {
     internal class ConfigureBowlingBalls : IEntityTypeConfiguration<BowlingBall>
     {

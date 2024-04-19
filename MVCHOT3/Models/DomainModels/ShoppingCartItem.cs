@@ -1,4 +1,4 @@
-﻿namespace MVCHOT3.Models.DomainModels
+﻿namespace MVCHOT3.Models
 {
     public class ShoppingCartItem
     {

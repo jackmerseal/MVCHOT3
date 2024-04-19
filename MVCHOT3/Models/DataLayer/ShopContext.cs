@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using MVCHOT3.Models.DataLayer.Configuration;
-namespace MVCHOT3.Models.DataLayer
+namespace MVCHOT3.Models
 {
     public class ShopContext : IdentityDbContext<User>
     {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
-namespace MVCHOT3.Models.DataLayer.Configuration
+namespace MVCHOT3.Models
 {
     public class ConfigureIdentity
     {

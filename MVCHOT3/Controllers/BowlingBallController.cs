@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MVCHOT3.Models;
-using MVCHOT3.Models.DataLayer;
 
 namespace MVCHOT3.Controllers
 {
