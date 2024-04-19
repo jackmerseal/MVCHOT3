@@ -1,10 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MVCHOT3.Models;
 using Microsoft.AspNetCore.Http;
+using MVCHOT3.Models.DomainModels;
+using MVCHOT3.Models.DataLayer;
 
 namespace MVCHOT3.Controllers
 {
-	public class ShoppingCartController : Controller
+    public class ShoppingCartController : Controller
 	{
 		private readonly ShopContext _context;
 		private List<ShoppingCartItem> _cartItems;

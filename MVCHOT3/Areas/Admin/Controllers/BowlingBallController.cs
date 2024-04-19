@@ -1,10 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MVCHOT3.Models;
+using MVCHOT3.Models.DataLayer;
 
 namespace MVCHOT3.Areas.Admin.Controllers
 {
-	[Area("Admin")]
+    [Area("Admin")]
 	public class BowlingBallController : Controller
 	{
 		private readonly ShopContext _context;

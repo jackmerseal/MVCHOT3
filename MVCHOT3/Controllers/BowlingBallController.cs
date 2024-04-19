@@ -1,9 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MVCHOT3.Models;
+using MVCHOT3.Models.DataLayer;
 
 namespace MVCHOT3.Controllers
 {
-	public class BowlingBallController : Controller
+    public class BowlingBallController : Controller
 	{
 		private readonly ShopContext _context;
 

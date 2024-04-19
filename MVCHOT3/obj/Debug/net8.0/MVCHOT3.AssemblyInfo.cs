@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCHOT3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca8c1a5c2d77ac7b867320c92fc4b8cff74aec15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3043594e2d0fac1b0807d3cb8872f65fd3151e55")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCHOT3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCHOT3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

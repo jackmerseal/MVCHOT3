@@ -60,7 +60,6 @@ C:\Users\coast\OneDrive\Desktop\Jack Coding\MVCHOT3\MVCHOT3\obj\Debug\net6.0\sta
 C:\Users\coast\OneDrive\Desktop\Jack Coding\MVCHOT3\MVCHOT3\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\coast\OneDrive\Desktop\Jack Coding\MVCHOT3\MVCHOT3\obj\Debug\net6.0\scopedcss\bundle\MVCHOT3.styles.css
 C:\Users\coast\OneDrive\Desktop\Jack Coding\MVCHOT3\MVCHOT3\obj\Debug\net6.0\scopedcss\projectbundle\MVCHOT3.bundle.scp.css
-C:\Users\coast\OneDrive\Desktop\Jack Coding\MVCHOT3\MVCHOT3\obj\Debug\net6.0\MVCHOT3.csproj.CopyComplete
 C:\Users\coast\OneDrive\Desktop\Jack Coding\MVCHOT3\MVCHOT3\obj\Debug\net6.0\MVCHOT3.dll
 C:\Users\coast\OneDrive\Desktop\Jack Coding\MVCHOT3\MVCHOT3\obj\Debug\net6.0\refint\MVCHOT3.dll
 C:\Users\coast\OneDrive\Desktop\Jack Coding\MVCHOT3\MVCHOT3\obj\Debug\net6.0\MVCHOT3.pdb
@@ -135,3 +134,5 @@ C:\Users\Jack Merseal\Desktop\HOT3\MVCHOT3\MVCHOT3\obj\Debug\net6.0\refint\MVCHO
 C:\Users\Jack Merseal\Desktop\HOT3\MVCHOT3\MVCHOT3\obj\Debug\net6.0\MVCHOT3.pdb
 C:\Users\Jack Merseal\Desktop\HOT3\MVCHOT3\MVCHOT3\obj\Debug\net6.0\MVCHOT3.genruntimeconfig.cache
 C:\Users\Jack Merseal\Desktop\HOT3\MVCHOT3\MVCHOT3\obj\Debug\net6.0\ref\MVCHOT3.dll
+C:\Users\coast\OneDrive\Desktop\Jack Coding\MVCHOT3\MVCHOT3\obj\Debug\net6.0\MVCHOT3.sourcelink.json
+C:\Users\coast\OneDrive\Desktop\Jack Coding\MVCHOT3\MVCHOT3\obj\Debug\net6.0\MVCHOT3.csproj.Up2Date

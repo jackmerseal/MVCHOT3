@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\models\\datalayer\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:models\\datalayer\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\models\\domainmodels\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:models\\domainmodels\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\models\\domainmodels\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:models\\domainmodels\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\areas\\admin\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:areas\\admin\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\models\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:models\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\models\\viewmodels\\shoppingcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:models\\viewmodels\\shoppingcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\models\\datalayer\\configuration\\configurebowlingballs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:models\\datalayer\\configuration\\configurebowlingballs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|c:\\users\\coast\\onedrive\\desktop\\jack coding\\mvchot3\\mvchot3\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC199B0D-E597-44A6-AA04-19F3FABC9D0F}|MVCHOT3.csproj|solutionrelative:areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\DataLayer\\ShopContext.cs",
+              "RelativeDocumentMoniker": "Models\\DataLayer\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\DataLayer\\ShopContext.cs",
+              "RelativeToolTip": "Models\\DataLayer\\ShopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:30:44.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\DomainModels\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "Models\\DomainModels\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\DomainModels\\ShoppingCartItem.cs",
+              "RelativeToolTip": "Models\\DomainModels\\ShoppingCartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:30:29.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:29:28.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Areas\\Admin\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Models\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Areas\\Admin\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "Areas\\Admin\\Models\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:29:01.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\ChangePasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:27:07.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:26:46.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\DomainModels\\Purchase.cs",
+              "RelativeDocumentMoniker": "Models\\DomainModels\\Purchase.cs",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\DomainModels\\Purchase.cs",
+              "RelativeToolTip": "Models\\DomainModels\\Purchase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:25:16.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:26:21.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShoppingCartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\ViewModels\\ShoppingCartViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\ShoppingCartViewModel.cs",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\ViewModels\\ShoppingCartViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\ShoppingCartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:25:33.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigureBowlingBalls.cs",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\DataLayer\\Configuration\\ConfigureBowlingBalls.cs",
+              "RelativeDocumentMoniker": "Models\\DataLayer\\Configuration\\ConfigureBowlingBalls.cs",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Models\\DataLayer\\Configuration\\ConfigureBowlingBalls.cs",
+              "RelativeToolTip": "Models\\DataLayer\\Configuration\\ConfigureBowlingBalls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:24:15.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T13:22:52.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\coast\\OneDrive\\Desktop\\Jack Coding\\MVCHOT3\\MVCHOT3\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:21:44.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,5 @@
-using MVCHOT3.Models;
 using Microsoft.EntityFrameworkCore;
+using MVCHOT3.Models.DataLayer;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddMemoryCache();

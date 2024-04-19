@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVCHOT3.props" />
+</Project>
